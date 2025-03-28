@@ -74,7 +74,7 @@ module.exports = {
 
     // Construct the help message
 
-    let helpMessage = "====【 Cid Kagenou Bot Commands 】====\n\n";
+    let helpMessage = "====【 Jack Lx Bot Commands 】====\n\n";
 
     helpMessage += commandList.length > 0 ? commandList.join("\n") + "\n\n" : "No available commands.\n\n";
 
@@ -86,15 +86,15 @@ module.exports = {
 
     }
 
-    helpMessage += `> Thank you for using our Cid Kagenou bot, this bot has multiple system and multiple command structures.\n`;
+    helpMessage += `> Thank you for using our Jack Lx Bot.\n`;
 
-    helpMessage += `> This is the original version 2.0 of Cid bot, will release soon.\n`;
+    helpMessage += `> This is Jack Lx Bot v.2\n`;
 
     helpMessage += `> For further assistance, contact the developer,\n`;
 
-    helpMessage += `Gmail: korisawaumuzaki@gmail.com\n`;
+    helpMessage += `Gmail: jackjackcuizon@gmail.com\n`;
 
-    helpMessage += `Facebook: https://www.facebook.com/aljur.pogoy.2024`;
+    helpMessage += `Facebook: https://www.facebook.com/writtenbyjack`;
 
   
 
