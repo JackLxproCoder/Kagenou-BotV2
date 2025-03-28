@@ -90,7 +90,7 @@ module.exports = {
 
             const helpMessage = 
 
-                "====【 Cid-Kagenou System Commands 】====\n\n" +
+                "====【 Jack Lx System Commands 】====\n\n" +
 
                 (commandList.length > 0 ? commandList.join("\n") : "No available commands.") +
 
