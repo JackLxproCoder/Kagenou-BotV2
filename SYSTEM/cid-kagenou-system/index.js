@@ -60,7 +60,7 @@ const loadCommands = () => {
 
         } catch (error) {
 
-            console.error(`Error loading Cid-Kagenou System command '${file}':`, error);
+            console.error(`Error loading Jack Lx System command '${file}':`, error);
 
         }
 
@@ -154,7 +154,7 @@ const executeCommand = async ({ cid, event }) => {
 
     } catch (error) {
 
-        cid.kagenou(`Error executing Cid-Kagenou System command: ${error.message}`, threadID);
+        cid.kagenou(`Error executing Jack Lx System command: ${error.message}`, threadID);
 
     }
 
