@@ -114,7 +114,7 @@ const executeCommand = async ({ cid, event }) => {
 
     if (command.onChat.config.cidControl && !isCidControl) {
 
-        return cid.kagenou("⛔ You need Cid-Control permission to use this command.", threadID);
+        return cid.kagenou("⛔ You need Jack Lx permission to use this command.", threadID);
 
     }
 
